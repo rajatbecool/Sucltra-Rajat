@@ -1,0 +1,96 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset='utf-8'>
+<title>Scultra Designs - Plan Overview</title>
+<style>
+@page { size: A4 landscape; margin: 0.55in; }
+body { font-family: Arial, sans-serif; font-size: 10pt; color: #111; }
+h1 { color: #1f4e79; font-size: 18pt; text-align: center; margin-bottom: 4px; }
+h2 { color: #1f4e79; font-size: 14pt; margin-top: 26px; }
+.subtitle { text-align:center; color:#666; font-size: 10.5pt; margin-bottom: 18px; }
+.note { color:#666; font-style:italic; font-size: 9pt; margin-top: 20px; }
+table { border-collapse: collapse; width: 100%; margin: 8px 0 22px 0; table-layout: fixed; }
+th, td { border: 1px solid #d6e0ea; padding: 6px 8px; vertical-align: top; }
+th { background: #1f4e79; color: white; font-weight: bold; text-align: center; }
+.alt th { background:#385723; }
+.purple th { background:#7030a0; }
+.orange th { background:#c65911; }
+.bluebox th { background:#eaf3f8; color:#1f4e79; }
+tr:nth-child(even) td { background:#f8fbfd; }
+.small { font-size: 9pt; }
+</style>
+</head>
+<body>
+<h1>Scultra Designs - Plan Overview</h1>
+<p class='subtitle'>A chart-style summary of the planned Scultra Designs company, website sections, launch phases, and planning documents.</p>
+
+<table class='bluebox'>
+<tr><th>Company Focus</th><th>Core Direction</th><th>Planning Method</th><th>Output Goal</th></tr>
+<tr><td>Ecommerce-led 3D printed product brand</td><td>Physical products first; digital and creator layers later</td><td>Hard questions first, then segment-wise defense</td><td>Small reports combined later into fundraising document</td></tr>
+</table>
+
+<h2>1. Scultra Business Ecosystem Chart</h2>
+<table>
+<tr><th>Section</th><th>Role</th><th>What It Includes</th><th>Strategic Purpose</th></tr>
+<tr><td>Shop</td><td>Physical 3D printed products</td><td>Own designs + licensed STLs converted into sellable products</td><td>Primary early revenue engine</td></tr>
+<tr><td>Buy Designs / STL Collection</td><td>Digital design files</td><td>STL files, design packs, selected design collections</td><td>Scalable digital revenue test after physical proof</td></tr>
+<tr><td>Sell Section</td><td>Curated creator participation</td><td>Designers submit/upload designs; Scultra may approve and sell with commission</td><td>Future marketplace layer, not fully open on day one</td></tr>
+<tr><td>Blog / Learning</td><td>Audience and trust-building content</td><td>Making videos, product build stories, tips, learning resources</td><td>Supports SEO, brand authority, and social proof</td></tr>
+<tr><td>Lighting App / Windows Software</td><td>Software ecosystem for lighting products</td><td>Android app, Windows app, WLED/sync software, setup guides</td><td>Differentiator; should launch only when stable</td></tr>
+<tr><td>About / Contact / Policies</td><td>Trust and operational backbone</td><td>Company story, contact, shipping, returns, creator rules, licensing notes</td><td>Required for credibility and future fundraising readiness</td></tr>
+</table>
+
+<h2>2. Launch Phase Chart</h2>
+<table class='alt'>
+<tr><th>Phase</th><th>Name</th><th>Launch / Build</th><th>Delay / Avoid</th><th>Proof Needed</th></tr>
+<tr><td>Phase 0</td><td>Internal Foundation</td><td>Hidden/password-protected website, brand basics, product sample list, forms, policies draft</td><td>Full shop, open seller upload, paid software</td><td>Ready-to-show foundation</td></tr>
+<tr><td>Phase 1</td><td>Public Soft Launch</td><td>Home, About, Contact, Blog/Learning, product showcase, waitlist, creator interest form</td><td>Checkout, full STL store, marketplace, unstable app downloads</td><td>Proof of interest: signups, DMs, product clicks</td></tr>
+<tr><td>Phase 2</td><td>Limited Shop Launch</td><td>Small controlled product shop with limited physical products and clear policies</td><td>Huge catalogue, international complexity, creator marketplace</td><td>Proof of sale and margin reality</td></tr>
+<tr><td>Phase 3</td><td>STL / Digital Launch</td><td>Selected STL files/design packs with clear licensing language</td><td>Open creator uploads or complex license tiers</td><td>Proof of maker/digital demand</td></tr>
+<tr><td>Phase 4</td><td>Creator Pilot</td><td>Invite/manual creator submissions, curated approvals, small commission model</td><td>Open marketplace and automatic payouts</td><td>Proof that creators and customers both benefit</td></tr>
+<tr><td>Phase 5</td><td>Lighting Software Beta</td><td>Stable app/software beta, setup guides, demos, bug reporting</td><td>Paid promise before stability</td><td>Proof that software supports product sales</td></tr>
+<tr><td>Phase 6</td><td>Full Ecosystem + Fundraising</td><td>Combined shop, STL, creator, content, software, operations, and fundraising story</td><td>Unvalidated big claims</td><td>Evidence-backed fundraising document</td></tr>
+</table>
+
+<h2>3. Planning Document Roadmap</h2>
+<table class='purple small'>
+<tr><th>No.</th><th>Document</th><th>Purpose</th><th>Type</th></tr>
+<tr><td>01</td><td>Business Concept and Launch Scope</td><td>Define the company idea, launch boundaries, and what Scultra is not doing immediately</td><td>Foundation document</td></tr>
+<tr><td>02</td><td>Failure Risk and Hard Questions</td><td>Capture hard questions, failure risks, weak assumptions, and your defenses</td><td>Adversarial document</td></tr>
+<tr><td>03</td><td>Website Structure and User Journey</td><td>Define website pages, navigation, flows, and user actions</td><td>Website planning</td></tr>
+<tr><td>04</td><td>Shop Segment Report</td><td>Define physical product categories, hero products, quality, pricing, margins, and operations</td><td>Segment report</td></tr>
+<tr><td>05</td><td>STL Collection Segment Report</td><td>Define digital file strategy, license logic, pricing, and customer use cases</td><td>Segment report</td></tr>
+<tr><td>06</td><td>Creator Marketplace Report</td><td>Define seller upload flow, curation rules, commission, approval, and disputes</td><td>Segment report</td></tr>
+<tr><td>07</td><td>Blog / Learning Content Report</td><td>Define content pillars, videos, learning resources, SEO and community strategy</td><td>Segment report</td></tr>
+<tr><td>08</td><td>Lighting App / Software Report</td><td>Define Android app, Windows software, WLED features, beta plan, and support scope</td><td>Segment report</td></tr>
+<tr><td>09</td><td>Operations and Fulfillment Report</td><td>Define printing workflow, QC, packaging, shipping, support, and returns</td><td>Operations report</td></tr>
+<tr><td>10</td><td>Revenue Model and Pricing Report</td><td>Define revenue streams, pricing hypotheses, margin logic, and future models</td><td>Commercial report</td></tr>
+<tr><td>11</td><td>Validation and Testing Report</td><td>Define experiments, success metrics, launch tests, customer proof, and evidence tracking</td><td>Validation report</td></tr>
+<tr><td>12</td><td>Fundraising Document</td><td>Combine proven assumptions and defended strategy into a money-raising document</td><td>Final output</td></tr>
+</table>
+
+<h2>4. Priority and Risk Control Chart</h2>
+<table class='orange'>
+<tr><th>Priority</th><th>Area</th><th>Core Question</th><th>Practical Control</th></tr>
+<tr><td>Highest Priority</td><td>Physical product proof</td><td>Can Scultra sell real 3D printed products profitably and repeatedly?</td><td>Start with a limited shop and track real costs, failures, packaging, shipping, returns, and feedback.</td></tr>
+<tr><td>High Priority</td><td>Focused brand identity</td><td>Does the customer understand what Scultra is?</td><td>Avoid launching too many unrelated sections publicly on day one.</td></tr>
+<tr><td>High Priority</td><td>Quality and trust</td><td>Do 3D printed products feel premium enough?</td><td>Use strong images, clean finishing, controlled product list, and visible making process.</td></tr>
+<tr><td>Medium Priority</td><td>STL sales</td><td>Will buyers pay for digital design files?</td><td>Launch only after product/category clarity; use simple license language.</td></tr>
+<tr><td>Medium Priority</td><td>Creator marketplace</td><td>Can uploads be controlled legally and operationally?</td><td>Keep it invite/manual first; do not allow automatic open listings early.</td></tr>
+<tr><td>Medium Priority</td><td>Content engine</td><td>Can videos/blogs generate trust and traffic?</td><td>Use behind-the-scenes and product-making content tied to launch products.</td></tr>
+<tr><td>High but Later</td><td>Lighting app/software</td><td>Can software become a differentiator without becoming a distraction?</td><td>Launch as beta only after stability; connect software to lamp/product value.</td></tr>
+</table>
+
+<h2>5. Working Rules for Scultra Planning</h2>
+<table>
+<tr><th>Rule</th><th>Planning Standard</th></tr>
+<tr><td>Rule 1</td><td>Hard questions come before positive story.</td></tr>
+<tr><td>Rule 2</td><td>Each segment gets its own failure-point questions and founder defense.</td></tr>
+<tr><td>Rule 3</td><td>Do not combine all ideas into public launch unless the first revenue engine is proven.</td></tr>
+<tr><td>Rule 4</td><td>Physical products should be the first real business test.</td></tr>
+<tr><td>Rule 5</td><td>Creator marketplace and software should be staged, not over-promised.</td></tr>
+<tr><td>Rule 6</td><td>The fundraising document should be created only after evidence, validation, and risk defense are available.</td></tr>
+</table>
+<p class='note'>Note: This is a working overview document based only on the Scultra Designs plan discussed so far. Legal, tax, licensing, and compliance details must be handled separately with qualified professionals where required.</p>
+</body>
+</html>
